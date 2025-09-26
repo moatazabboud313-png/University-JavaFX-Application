@@ -1,0 +1,23 @@
+.lab1
+{
+    -fx-font: Bold italic 40px 'serif';
+    -fx-text-fill: #005B41;
+}
+
+.root
+{
+    -fx-background-color: #DAFFFB;
+}
+.lab2
+{
+    -fx-font: normal Bold 22px 'serif';
+    -fx-text-fill: #38645a;
+}
+.button
+{
+    -fx-background-color: #008170;
+    -fx-text-fill: #d3cccc;
+    -fx-font-size: large;
+    -fx-font: Bold italic 22px 'serif';
+    -fx-border-radius: 20%;
+}

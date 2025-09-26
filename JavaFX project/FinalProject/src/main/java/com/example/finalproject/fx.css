@@ -1,0 +1,25 @@
+
+.label{
+    -fx-font: normal Bold 22px 'serif';
+    -fx-text-fill: #386541 ;
+}
+.labl{
+     -fx-font:  Bold italic 30px 'serif';
+     -fx-text-fill : #005B41;
+}
+.root{
+    -fx-background-color: #DAFFFB;
+    
+}
+.lbl{
+     -fx-font:  Bold italic 30px 'serif';
+     -fx-text-fill : #005B41;
+}
+.button{
+    -fx-background-color: #008170;
+    -fx-text-fill: d3cccc;
+    -fx-font-size: Large;
+    -fx-font: Bold italic 22px 'serif';
+    -fx-border-radius: 20%;
+}
+
